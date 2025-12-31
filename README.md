@@ -1,4 +1,4 @@
-# Student_Acadamic_Reaport
+# Student_Acadamic_Report
 ## Project Overview
 This Power BI project focuses on analyzing student academic performance to gain meaningful insights into marks distribution, subject-wise trends, and overall academic outcomes. The dashboard helps educators and decision-makers understand performance gaps, identify high-achieving students, and improve academic strategies.
 
